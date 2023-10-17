@@ -76,10 +76,5 @@ The fisherXY test shows a slight variation in results than the confidence that t
 
 ## Discussion and Conclusion 
 
-
-
-
-
-
-
+The process of importing the GSS data set directly off of the NORC website was not the most intuitive process because of the recent change that STATA files are read and interpreted by the r-program. Our graphical and numerical data sections provided us with little room to be confident in the slight differences between the race categories that could be seen. The massive sample size of the white people surveyed for this data is most likely responsible for this confusion and the contradicting conclusion of some of these results. The lack of consistency from the black and other people groups due to their comparably small sample sizes does not allow us to definitively say that race is a factor for eating out. 
 
