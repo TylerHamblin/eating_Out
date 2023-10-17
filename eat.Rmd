@@ -61,8 +61,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
-
+The numerical results confirm what was predicted from the graphical data but more accurately we can now say that white people say yes the most at around 82%, which is 14% higher than black and 5% higher than other, and black people say no the most at around 31%, which is 14% higher than white people and 9% higher than other. But again we can see that the percentage of people answering yes or no to this survey is significantly primarily white people (82% of people in entire yes category were white and 71% of people in entire no category). 
 
 
 
