@@ -39,11 +39,32 @@ mydata <- na.omit(mydata)
 
 ## Graphical Data 
 
+```{r}
+barchartGC(~race + eatout,data=mydata)
+barchartGC(~race + eatout,data=mydata, type="percent")
+
+```
+
+
+
+
+
+
 
 ## Numerical Data
 
 
+
+
+
+
+
 ## Inferential Data 
+
+
+
+
+
 
 
 ## Discussion and Conclusion 
