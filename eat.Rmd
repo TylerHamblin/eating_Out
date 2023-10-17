@@ -71,8 +71,7 @@ The numerical results confirm what was predicted from the graphical data but mor
 fisherXY(mydata$race,mydata$eatout, printAll = TRUE)
 ```
 
-
-
+The fisherXY test shows a slight variation in results than the confidence that the previous two tests suggested. There is a large p-value (0.2815) that suggests a large amount of room for error or the possibility that the null hypothesis could be true. In the 95% confidence interval we see that the perceived difference between the other and black categories may be explained by chance and a statistical difference in the data may not be the correct explanation. The black and white races however do have some statistical variation backed by the inferential test that is based on the p-value 0.0003864 and the confidence interval actually allows us to throw out the null hypothesis in this instance. The white and other categories were also fairly accurately depicted in the graphical and numerical data as we predicted that they were both fairly similar to each other when responding yes or no to eating out. The high p-value 0.3543 confirms that there is not enough variation for race to accurately distinguish these two categories for this question.  
 
 
 ## Discussion and Conclusion 
